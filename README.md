@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+# Daily Motivation App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This mobile application displays motivational quotes paired with sunset set pictures that I took in the campus. By pushing "New Quote" it will show a new quote with the image that goes with it.
 
-## Get started
+## Instructions for Build and Use
 
-1. Install dependencies
+Steps to build and/or run the software:
 
-   ```bash
-   npm install
-   ```
+1. Install Node.js
+2. Open the project folder in VS Code
+3. Open terminal and run "npm install"
+4. Start the application by running npx expo start
+5. Scan the QR code with Expo Go on an iPhone or Android device.
 
-2. Start the app
+Instructions for using the software:
 
-   ```bash
-   npx expo start
-   ```
+1. Launch the application on your mobile device
+2. Read the motivational quote and view the accompanying image.
+3. Tap the "New Quote" button to display a new random quote and image.
 
-In the output, you'll find options to open the app in a
+## Development Environment
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* VS Code
+* Node.js (v24.16.0)
+* React Native
+*Expo Go
+* Git and Github
 
-## Get a fresh project
+## Useful Websites to Learn More
 
-When you're ready, run:
+I found these websites useful in developing this software:
 
-```bash
-npm run reset-project
-```
+* Node.js Documentation - https://nodejs.org
+*React Native Documentation - https://reactnative.dev
+* Chat GPT
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Future Work
 
-## Learn more
+The following items I plan to fix, improve, and/or add to this project in the future:
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+* [ ] I think it will be cool if the user could add pictures on their own. Something to keep them motivated.
+* [ ] Let the user add quote and save them.
+* [ ]
