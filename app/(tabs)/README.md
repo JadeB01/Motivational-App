@@ -33,7 +33,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * Node.js Documentation - https://nodejs.org
-*React Native Documentation - https://reactnative.dev
+* React Native Documentation - https://reactnative.dev
 * Chat GPT
 
 ## Future Work
@@ -42,4 +42,3 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] I think it will be cool if the user could add pictures on their own. Something to keep them motivated.
 * [ ] Let the user add quote and save them.
-* [ ]
